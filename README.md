@@ -27,31 +27,6 @@ This project is built using front-end technologies, focusing on creating a respo
 - **Interactive UI**: The app has an easy-to-navigate and visually appealing interface.
 - **Sort and Filter**: Users can sort or filter countries by population, area, and other attributes.
 
-## Installation
-
-To run the app locally, follow these steps:
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/AshyrMalik/World-Wise-App.git
-cd World-Wise-App
-```
-
-2. Install the required dependencies:
-
-```bash
-npm install
-```
-
-3. Start the development server:
-
-```bash
-npm start
-```
-
-The application will be available at `http://localhost:3000`.
-
 ## Usage
 
 - Open the app in your browser.
